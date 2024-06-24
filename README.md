@@ -1,4 +1,4 @@
 # [w4.rner.me](https://w4.rner.me)
 Tech portfolio site
 
-You can fork the design with the ninety-five.html template in the gh-pages branch
+Visit https://github.com/w4rner/ninety-five to Clone the Ninety-Five HTML template cleanly (without taking all w4rner personal files in this gh-pages branch).
